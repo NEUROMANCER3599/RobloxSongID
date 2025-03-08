@@ -109,6 +109,39 @@ Song ID
 9044521175 Never let me down again
 9044520043 Losing Myself in Magic
 9044520534 Empty Road is like a mirror
+134754910563062 Welcome Home Summer
+103653399538341 Why Should I care
+82909764077088 Am I dreaming
+132137117045908 She's gone
+105439636250865 My Bestfriend
+81546377192080 Midnight cruise control
+117615341138149 Lost in Time
+139472547908774 Broken Future
+71828902050045 Loves a gamble
+92619578971957 Heaven
+109703015520142 Crying for your love
+70847330712513 Echoes of the goodlife
+138534851701281 Smiles and tears
+106876110916442 Great Escape
+85348244657995 Astro Link
+126633000106267 Afterglow Drive
+82370467727359 Digital Fireworks
+134954924731469 Heatwaves on the horizon
+73008334696473 Rust Synthwave
+73403715229905 Miss You
+138380371986541 The End
+83687488831000 Deep into the night
+137534173545611 Tonight
+84057043454581 Night drive 84
+109308733423503 Analog Romance
+86548858187541 Lost Matrix
+75621143005571 Fade into Neon
+72801104177992 Neon Abyss
+126849060325135 Neon Dusk
+137961838980464 Venomous Synthwave
+111409976412106 Fifteen Africa
+134605509073141 Seventeen synthwave
+101351313728235 Retro Future
 81520406609913 tragic fanatic
 125504820332343 Secret Moon
 105884463503364 Voicemail
@@ -368,6 +401,7 @@ Song ID
 1835704001 Ballad For My Girl
 1835703575 The Scratch Conspiracy
 1835704397 Hidden Source
+126984620102920 static rush
 108187218128459 Forever Digital
 131015768433989 Parallel Universe
 104127486081547 Midnight Echoes
@@ -481,7 +515,12 @@ Song ID
 1837116035 Monster
 1842959746 Operator
 1837115799 Children of the night
+1837115845 A terrible presence
+1837116035 Monster
 1837115972 Little Black Bags
+1837059061 Dark Vision
+119013059259330 Revenge of the undead
+1843359148 Raining Bricks
 1837116152 Transmissions
 9046476113 Cyber Space
 9046476108 The Vault
@@ -537,10 +576,105 @@ Song ID
 122436132661746 That's bad man
 97220730154118 Memory Upgrade
 105632430032013 Silent Reckon
+111969862483337 Shadow Breach
 96739965186756 Skyline Drift
 136292620836595 RobloxRewind 
 87844544698484 Synapse Spark DnB
 102845819707597 Sonic Momemtum
+93628462678627 Don't break us anymore
+123737311277208 Hey
+87828419536796 Harmonic Snap
+129745057840491 Tranquilux
+99878588746556 Ascendant Pulse
+136818566078848 Focus Synthesis
+125161083355910 Aurora tides
+107125021974817 Poison
+93655969481815 Pathway of cause
+122231206695629 Turbo Dream
+9038253401 Hackers Game
+102898812376325 Reactor Core
+104798289604901 Cyber Fallout
+105571215757075 Omega Void
+86102788713952 Chaos Signal
+137022012744574 RadioActivity
+96098552379356 Acid Wasteland
+86067233920375 Neon Ruins
+106597678663027 Shattered Reality
+138314356425109 After Time
+81938219744236 Corporate Greed Is Dead
+114829345588074 The Choice is Yours
+120296401964818 TSCB
+135817435733590 Corroded Signal
+110339502296184 Ocean Foam
+75680000959863 Silent Reactor
+124322235887282 Ion Pulse
+114358396619999 Loose Control
+114479135498802 Sonic Collapse
+130317998750961 Industrial Strain
+89597979231801 Industrial Resonance
+120054190540098 Machine Dreams
+117631550297755 Abstract Images
+93439428451105 Steel Horizons
+70719020162006 Industrial Fallout
+86620346446582 Hungry Show_V1
+83750196026980 Hungry Show_v2
+126518665728806 After the collapse
+135429883381195 Harakiri Ton Industrie
+77446116561614 Bunker Sessions
+107280303925429 Parallel Subterranea
+101330015355042 The Final Glow
+77702533189837 Machines In Decay
+130638273026090 The Last Circuit
+132748586900559 Techno Tribes
+102828172719156 Broken Towers
+137327872235417 Horizon Shard
+82604702163302 Heatwave Circuit
+119614517452413 Solar Meltdown
+114457666855038 Ruin Mechanics
+94249359777608 Battleground Bass
+76723297006223 Whispering Machines
+127439951159564 Reactor Vortex
+103491797412309 Pyro Pulse
+103477698594299 Chrono Triggered
+89419721880042 Kinetic Horizons
+105453917725135 Earthquake symphony
+109831173484138 Pulsar Rupture
+89406740103338 Astral Vibrations
+79052776480339 Oscillated Rage
+101284909620397 Decibel Collapse
+84843332403985 Saturn's Goa Psytrance fields
+140354268532357 Through the vortex
+122695856003765 Quantum Echoes
+117562133866150 magnetic drift
+133397039999143 Hyperdrive Collapse
+121349524628739 Chaos Convergence
+86513369752716 Abandoned World
+131063276839148 Prismatic Pulse
+123126176770613 Dystopian Dreamscape
+98333380412834 Magnetic Sync
+82837707678402 Mech Wave
+116764736452976 Photon Collapse
+75717839007485 Carbon Rebirth
+132361206502197 Electric Cyclone
+103062220034991 Acid Fallout
+107759470424968 Ashes Beneath our feet
+104973497701875 Darkened Coil
+71134471576729 Scorched Labyrinth
+72409007569646 Twilight armory
+74151085944961 Through the poisoned skies
+119217306077230 circuit fever
+72933948885219 Lunar Halo
+120114997311512 Machine War
+134200411472475 Synthetic Havens
+107197406575423 Edge of annihilation
+93174940815923 Voltage Collapse
+113092493466035 Explosive Rebellion
+107636182021963 Neon Mathcore Distortion
+85700137042567 Wasteland Voyage
+119664834760044 Beyond the darkness
+131598355826933 Tachyon Trails
+
+George Kraniotakis
 
 ====== Combat! ======
 9044678820 Metal Madness
@@ -588,6 +722,7 @@ Song ID
 9046476512 Techno Pride
 1842940193 Assault Complex
 1842725760 Ignition
+1842959945 Super Feel
 
 ====== Ambient ======
 9117773103 Police Radio 1
