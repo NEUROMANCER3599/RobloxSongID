@@ -16,6 +16,7 @@ Song ID
 1845858133 Khamae Ohm Tuk
 1845857959 Yuon Tod Haie
 1840706550 Ayutthaya
+1835604467 Golden Ayutthaya
 1840706598 Khlui
 1840706675 Ramakien
 1840706108 Chuetching
@@ -138,9 +139,18 @@ Song ID
 75621143005571 Fade into Neon
 72801104177992 Neon Abyss
 126849060325135 Neon Dusk
+72683598006550 Quantum Alley
 137961838980464 Venomous Synthwave
 111409976412106 Fifteen Africa
 134605509073141 Seventeen synthwave
+19005918760 Skate City
+80491308621259 Tetragon
+95956467240989 Digon
+84975929021946 Monogon
+125944576536238 Hexagon
+95828553611044 Trigon
+126181865297440 Pentagon
+19005906719 Oh yeah
 101351313728235 Retro Future
 81520406609913 tragic fanatic
 125504820332343 Secret Moon
@@ -402,6 +412,13 @@ Song ID
 1835703575 The Scratch Conspiracy
 1835704397 Hidden Source
 126984620102920 static rush
+107661979237522 Wild on the floor
+92799616741558 High on rhythm
+105378857718753 Boogie down tonight
+88617530344817 Midnight mirrorball
+73898855771771 Hot Streak
+108834110580066 Urban Echo
+87679670634639 chrome nights
 108187218128459 Forever Digital
 131015768433989 Parallel Universe
 104127486081547 Midnight Echoes
@@ -612,12 +629,20 @@ Song ID
 114479135498802 Sonic Collapse
 130317998750961 Industrial Strain
 89597979231801 Industrial Resonance
+132891429507020 Industrial Exodus
+128461392773125 Europa
 120054190540098 Machine Dreams
 117631550297755 Abstract Images
 93439428451105 Steel Horizons
 70719020162006 Industrial Fallout
 86620346446582 Hungry Show_V1
 83750196026980 Hungry Show_v2
+89298929110881 Radiation Infected City
+84725014714984 They call you
+112882318700388 Ich Will Rache
+93781023841496 Schmerzen
+115231936656996 Give Me A Reason
+130831759003263 Underground Shock
 126518665728806 After the collapse
 135429883381195 Harakiri Ton Industrie
 77446116561614 Bunker Sessions
@@ -653,6 +678,7 @@ Song ID
 123126176770613 Dystopian Dreamscape
 98333380412834 Magnetic Sync
 82837707678402 Mech Wave
+133420774914768 Mech Force
 116764736452976 Photon Collapse
 75717839007485 Carbon Rebirth
 132361206502197 Electric Cyclone
@@ -673,6 +699,150 @@ Song ID
 85700137042567 Wasteland Voyage
 119664834760044 Beyond the darkness
 131598355826933 Tachyon Trails
+107711784160799 Paradox Machine
+93014117200832 Nightfall ritual
+87129722922016 Cosmic Beats
+128922679282000 Tribes of the fallen
+107280303925429 Parallel Subterranea
+102848879650987 Fading Echoes of the old world
+72794519405907 Molten Matrix
+140503698214889 Deep oscillations
+80717067591542 Echo Machine
+89049213580064 Vol walker
+87228862666944 Prism Drift
+78525102207973 The Final Daylight
+81885382686942 Photon Wars
+134067661407564 End of the old age
+118378289945614 Lost in the loop
+85176789218205 Machine Overload
+80310640935116 Chaos Beneath Towers
+78811617980930 Seeds of destruction
+73975082921563 Infinited Recursion
+114987894032525 Timefall
+104131099020453 Armageddon Pulse
+128236630944741 Core Pulse
+136697775546777 Echoes of destruction
+121102145911532 steel horizon
+100219152946924 Techno in the digital furnace
+79004397616663 ashes of eternity
+84206024796999 Event horizon
+84593413692330 Gamma Ray
+123751934998892 Gravitational Beat
+103641630646335 Scavenge Signal
+136433468190359 Floating Thoughts
+85069049677750 Energy of the fallen
+123198112984077 Metal drift
+117738283796896 Galatic Ruin
+139364009240468 Temporal Fracture
+113795135156437 Neon Skyline Frenzy
+105951252386175 Subterranean Uprising
+138145625584303 March of the fallen
+128700380007451 Horizon End
+127623198120968 Radiant Ruin
+80536054865127 The comet's trance tail
+120772853312917 Trance in circuit city
+96793559025370 Invasion Protocol
+131745071434606 Neon Frequency
+83570933413097 Code Malfunction
+139464837393573 stormbringer awakening
+105250686784456 Phantoms of decay
+101956918698675 Dissonant Realm
+106844606229375 Acid Rupture
+117336717051614 Chaos Circuit
+115295532157860 Tectonic Shift
+125361897247972 Neptune
+95457741055607 After the storm
+118025825687338 Lords of the battlefield
+136806696104425 Cybernetic Ashes
+82205728656658 Blackened Horizon
+96460196076351 Stormborn Chronicles
+111055791211198 Ionized Conflict
+101177960072962 Mechanical Trance Vision
+82205816215442 Cyberstorm Rebirth
+88373818724247 Abyssal Echoes
+73274501231683 Rebirth of Iron
+77949695512502 Synths of the apocalypse
+109638244251588 Electric Streets
+73886337161762 Infinited Resonance
+93480529776884 Cyber Fusion
+112707527886401 Spectral Trance Horizons
+81600853369396 Wasteland Prophecy
+71523905230825 Wired Soul
+91795652030248 Shattered Realms
+127020416415201 Last Dawn Rising
+124629333332993 Iron Fist Ascension
+85149084058322 Crystallized Waves
+120474585140445 Voyager's Legacy
+108412134377744 Outlander's Descent
+123286506670716 Shattered Reality Pulse
+101761072858347 bassline bloom
+89074621777593 Grid Collapse
+83785868931334 Obsidian Surge
+97185221827342 Soft Awakening
+99197119408671 Trance of asteroid Belts
+127621206864643 Pure Minimalism
+115886190716165 Warrior's code
+85757412854057 Spectral Dune
+88632660449869 Shifting Urban Tides
+125597914759306 Fragmented Pulse
+98366931316100 Pulse Circuit
+71690387398719 Rusted Gears
+81236860278758 Voidwalker's lament
+104915983449121 Abyssal Ascent
+93998657295866 Pulse and Steel
+113851819888881 Resonance Anomaly
+129209836247191 Pulse Decay
+84669101199909 Shattered Dreams of tomorrow
+87961615700740 Trance Pulsar Vibes
+137098288427127 Atomic Sunrise
+111027998752403 Chromatic Overload
+130973713708570 Cyberstorm Groove
+135301480554986 Underground Infinity
+89668090662116 Shattered Reflections
+101205229747745 Final Siege
+121573821303153 Post War Waves
+93243117210841 Cratered Skies
+105146231110096 Iron and Fire
+91160475929509 Glitch Horizons
+109959923613950 Blackened Skies
+77537957793487 Dystopian Groove
+102270433599105 Atomic Silence
+127357186785544 Cybernetic Siege
+84434779636515 Hidden Depths
+73623834029861 Exoplanet
+82485518885859 Vertigo Transcedence
+76879246216277 Shadows of steel
+80051972982420 Under the fallen sky
+136009431122591 Liquid Dimensions
+135979577757493 Plague of tomorrow
+70801707810456 Neon Existence
+122187343575088 Desolate Dominion
+77917010808132 Cybernetic Forge
+137115190295334 Cybernetic Dawn
+82726572454069 Static Transference
+123595190977659 Endless Dust
+81457194838829 Reign of chaos
+91650832364505 Fractured Grid
+77980383197083 Above the atmosphere
+84182822402759 Burnt to ash
+110651545988089 Neural Override
+127638608881101 Radiant Decay
+104646421272076 Darkened Horizons
+115816100408445 Chasmic Rhythms
+129375241892626 Wasted Future
+94579883397684 Cyber Conflict
+94839886824367 Post-Human Groove
+93198154042765 Binary Star
+132395390886300 Combat Pulse
+79632518476184 Celestial Oscillations
+87564342431474 Rebirth of the wasteland
+132634204012942 Machine Descent
+87034728081220 Reflective Concrete
+106285478160679 Binary Assault
+84628062043369 Corrosion Sector
+135094951510204 Steel Overload
+107833426788434 Steel Sky Techno
+
 
 George Kraniotakis
 
